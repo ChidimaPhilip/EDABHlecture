@@ -3,5 +3,5 @@ streamlit
 numpy
 pandas
 scikit-learn
-matplotlib.pyplot
-matplotlib
+%matplotlib.pyplot
+
