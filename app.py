@@ -20,5 +20,6 @@ if variable:
   ax.set_xlabel("Units")
   ax.set_ylabel("Value")
   st.pyplot(fig)
+
   
 
